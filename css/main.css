@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+.hidden {
+    display: none;
+}
+
+.form {
+    margin: 0 auto;
+    margin-top: 155px;
+    width: 300px;
+    
+    
+}
+
+.form input, button {
+    margin-top: 23px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form input {
+    width: 433px;
+    height: 70px;
+}
+
+.form button {
+    width: 433px;
+    height: 70px;
+    color: black;
+}
+
+.box {
+    background-color: black;
+    width: auto;
+    height: 70px;
+}
+
+.hero-img {
+    background-color: black;
+    width: auto;
+    height: 800px;
+    margin-top: 86px;
+
+}
+#container {
+    margin: 900px auto;
+  width: 960px;
+}
+
+#about {
+    display: flex;
+    flex-direction: column;
+}
+
